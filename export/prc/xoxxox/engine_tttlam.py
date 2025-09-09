@@ -87,4 +87,4 @@ class TttPrc:
 
     self.addres(outres, self.lstres)
 
-    return outres
+    return (outres, "")
